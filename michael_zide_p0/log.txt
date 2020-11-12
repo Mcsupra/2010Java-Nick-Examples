@@ -1,0 +1,702 @@
+2020-11-04 09:06:45 INFO  Driver:25 - Program has started
+2020-11-04 09:07:17 INFO  Driver:49 - Successful User obj creation
+2020-11-04 09:59:37 INFO  Driver:25 - Program has started
+2020-11-04 09:59:48 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:13:19 INFO  Driver:25 - Program has started
+2020-11-04 10:13:31 INFO  Driver:25 - Program has started
+2020-11-04 10:13:46 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:14:23 INFO  Driver:25 - Program has started
+2020-11-04 10:14:29 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:14:45 INFO  Driver:25 - Program has started
+2020-11-04 10:14:54 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:15:27 INFO  Driver:25 - Program has started
+2020-11-04 10:15:43 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:18:43 INFO  Driver:25 - Program has started
+2020-11-04 10:19:12 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:54:47 INFO  Driver:25 - Program has started
+2020-11-04 10:54:53 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:55:19 INFO  Driver:25 - Program has started
+2020-11-04 10:55:24 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:56:29 INFO  Driver:25 - Program has started
+2020-11-04 10:56:37 INFO  Driver:49 - Successful User obj creation
+2020-11-04 10:58:05 INFO  Driver:25 - Program has started
+2020-11-04 10:58:13 INFO  Driver:49 - Successful User obj creation
+2020-11-04 11:01:24 INFO  Driver:25 - Program has started
+2020-11-04 11:01:29 INFO  Driver:49 - Successful User obj creation
+2020-11-04 11:01:54 INFO  Driver:25 - Program has started
+2020-11-04 11:02:03 INFO  Driver:49 - Successful User obj creation
+2020-11-04 11:02:07 ERROR UserSignInService:63 - NULLpointE
+2020-11-04 13:28:11 INFO  Driver:25 - Program has started
+2020-11-04 13:28:19 INFO  Driver:49 - Successful User obj creation
+2020-11-04 13:29:28 INFO  Driver:25 - Program has started
+2020-11-04 13:29:35 INFO  Driver:49 - Successful User obj creation
+2020-11-04 13:34:46 INFO  Driver:25 - Program has started
+2020-11-04 13:37:28 INFO  Driver:49 - Successful User obj creation
+2020-11-04 13:41:11 INFO  Driver:111 - Successful credit obj creation
+2020-11-04 13:41:48 INFO  Driver:102 - Successful bank obj creation
+2020-11-04 13:44:44 INFO  Driver:162 - Program has ended
+2020-11-04 13:44:47 INFO  Driver:25 - Program has started
+2020-11-04 14:02:12 INFO  Driver:25 - Program has started
+2020-11-04 14:10:51 INFO  Driver:25 - Program has started
+2020-11-04 14:10:56 INFO  Driver:49 - Successful User obj creation
+2020-11-04 14:10:56 INFO  Driver:162 - Program has ended
+2020-11-04 14:11:12 INFO  Driver:25 - Program has started
+2020-11-04 14:11:22 INFO  Driver:49 - Successful User obj creation
+2020-11-04 14:11:45 INFO  Driver:25 - Program has started
+2020-11-04 14:11:49 INFO  Driver:162 - Program has ended
+2020-11-04 14:11:57 INFO  Driver:25 - Program has started
+2020-11-04 14:12:00 INFO  Driver:49 - Successful User obj creation
+2020-11-04 14:12:09 INFO  Driver:162 - Program has ended
+2020-11-04 14:12:13 INFO  Driver:25 - Program has started
+2020-11-04 14:12:14 INFO  Driver:162 - Program has ended
+2020-11-04 14:12:16 INFO  Driver:25 - Program has started
+2020-11-04 14:12:20 INFO  Driver:49 - Successful User obj creation
+2020-11-04 14:12:24 ERROR UserSignInService:63 - NULLpointE
+2020-11-04 23:20:04 INFO  Driver:26 - Program has started
+2020-11-04 23:21:54 INFO  Driver:26 - Program has started
+2020-11-04 23:22:12 INFO  Driver:50 - Successful User obj creation
+2020-11-04 23:37:09 INFO  Driver:31 - Program has started
+2020-11-04 23:38:38 INFO  Driver:31 - Program has started
+2020-11-04 23:39:22 INFO  Driver:31 - Program has started
+2020-11-04 23:40:35 INFO  Driver:31 - Program has started
+2020-11-05 13:38:07 INFO  Driver:31 - Program has started
+2020-11-05 14:20:25 INFO  Driver:17 - Server has started
+2020-11-05 14:20:25 INFO  Driver:19 - Program has started
+2020-11-05 14:20:25 INFO  Driver:32 - Program has ended
+2020-11-05 14:20:41 INFO  Driver:17 - Server has started
+2020-11-05 14:20:41 INFO  Driver:19 - Program has started
+2020-11-05 14:20:41 INFO  Driver:32 - Program has ended
+2020-11-05 23:00:29 INFO  Driver:17 - Server has started
+2020-11-05 23:00:29 INFO  Driver:18 - Program has started
+2020-11-05 23:00:29 INFO  Driver:23 - Program has ended
+2020-11-05 23:07:49 INFO  Driver:17 - Server has started
+2020-11-05 23:07:49 INFO  Driver:18 - Program has started
+2020-11-05 23:07:49 INFO  Driver:23 - Program has ended
+2020-11-05 23:08:14 INFO  Driver:17 - Server has started
+2020-11-05 23:08:14 INFO  Driver:18 - Program has started
+2020-11-05 23:08:15 INFO  Driver:23 - Program has ended
+2020-11-05 23:09:37 INFO  Driver:17 - Server has started
+2020-11-05 23:09:37 INFO  Driver:18 - Program has started
+2020-11-05 23:09:37 INFO  Driver:23 - Program has ended
+2020-11-05 23:12:13 INFO  Driver:17 - Server has started
+2020-11-05 23:12:13 INFO  Driver:18 - Program has started
+2020-11-05 23:12:13 INFO  Driver:23 - Program has ended
+2020-11-05 23:19:40 INFO  Driver:17 - Server has started
+2020-11-05 23:19:40 INFO  Driver:18 - Program has started
+2020-11-05 23:19:40 INFO  Driver:23 - Program has ended
+2020-11-05 23:23:54 INFO  Driver:17 - Server has started
+2020-11-05 23:23:54 INFO  Driver:18 - Program has started
+2020-11-05 23:23:54 INFO  Driver:23 - Program has ended
+2020-11-05 23:25:29 INFO  Driver:17 - Server has started
+2020-11-05 23:25:29 INFO  Driver:18 - Program has started
+2020-11-05 23:25:29 INFO  Driver:23 - Program has ended
+2020-11-05 23:26:40 INFO  Driver:17 - Server has started
+2020-11-05 23:26:40 INFO  Driver:18 - Program has started
+2020-11-05 23:26:40 INFO  Driver:23 - Program has ended
+2020-11-05 23:26:49 INFO  Driver:17 - Server has started
+2020-11-05 23:26:49 INFO  Driver:18 - Program has started
+2020-11-05 23:26:49 INFO  Driver:23 - Program has ended
+2020-11-05 23:27:31 INFO  Driver:17 - Server has started
+2020-11-05 23:27:31 INFO  Driver:18 - Program has started
+2020-11-05 23:27:31 INFO  Driver:23 - Program has ended
+2020-11-05 23:27:52 INFO  Driver:17 - Server has started
+2020-11-05 23:27:52 INFO  Driver:18 - Program has started
+2020-11-05 23:27:53 INFO  Driver:23 - Program has ended
+2020-11-05 23:28:05 INFO  Driver:17 - Server has started
+2020-11-05 23:28:05 INFO  Driver:18 - Program has started
+2020-11-05 23:28:05 INFO  Driver:23 - Program has ended
+2020-11-05 23:28:20 INFO  Driver:17 - Server has started
+2020-11-05 23:28:20 INFO  Driver:18 - Program has started
+2020-11-05 23:28:20 INFO  Driver:23 - Program has ended
+2020-11-05 23:35:51 INFO  Driver:17 - Server has started
+2020-11-05 23:35:51 INFO  Driver:18 - Program has started
+2020-11-05 23:35:51 INFO  Driver:23 - Program has ended
+2020-11-05 23:36:06 INFO  Driver:17 - Server has started
+2020-11-05 23:36:06 INFO  Driver:18 - Program has started
+2020-11-05 23:36:06 INFO  Driver:23 - Program has ended
+2020-11-05 23:37:18 INFO  Driver:17 - Server has started
+2020-11-05 23:37:18 INFO  Driver:18 - Program has started
+2020-11-05 23:37:18 INFO  Driver:23 - Program has ended
+2020-11-05 23:39:16 INFO  Driver:17 - Server has started
+2020-11-05 23:39:16 INFO  Driver:18 - Program has started
+2020-11-05 23:39:17 INFO  Driver:23 - Program has ended
+2020-11-06 12:02:11 INFO  Driver:17 - Server has started
+2020-11-06 12:02:11 INFO  Driver:18 - Program has started
+2020-11-06 12:02:11 INFO  Driver:23 - Program has ended
+2020-11-06 12:16:20 INFO  Driver:17 - Server has started
+2020-11-06 12:16:20 INFO  Driver:18 - Program has started
+2020-11-06 12:16:20 INFO  Driver:23 - Program has ended
+2020-11-06 12:16:43 INFO  Driver:17 - Server has started
+2020-11-06 12:16:43 INFO  Driver:18 - Program has started
+2020-11-06 12:16:43 INFO  Driver:23 - Program has ended
+2020-11-06 12:34:49 INFO  Driver:17 - Server has started
+2020-11-06 12:34:49 INFO  Driver:18 - Program has started
+2020-11-06 12:34:49 INFO  Driver:23 - Program has ended
+2020-11-06 12:35:02 INFO  Driver:17 - Server has started
+2020-11-06 12:35:02 INFO  Driver:18 - Program has started
+2020-11-06 12:35:02 INFO  Driver:23 - Program has ended
+2020-11-07 18:52:57 INFO  Driver:17 - Server has started
+2020-11-07 18:52:57 INFO  Driver:18 - Program has started
+2020-11-07 18:52:57 INFO  Driver:23 - Program has ended
+2020-11-07 18:57:24 INFO  Driver:21 - Server has started
+2020-11-07 18:57:24 INFO  Driver:22 - Program has started
+2020-11-07 18:57:24 INFO  Driver:28 - Program has ended
+2020-11-07 20:29:26 INFO  Driver:21 - Server has started
+2020-11-07 20:29:26 INFO  Driver:22 - Program has started
+2020-11-07 20:32:54 INFO  Driver:21 - Server has started
+2020-11-07 20:32:54 INFO  Driver:22 - Program has started
+2020-11-07 20:35:10 INFO  Driver:21 - Server has started
+2020-11-07 20:35:10 INFO  Driver:22 - Program has started
+2020-11-07 20:37:55 INFO  Driver:21 - Server has started
+2020-11-07 20:37:55 INFO  Driver:22 - Program has started
+2020-11-07 20:37:56 INFO  Driver:28 - Program has ended
+2020-11-07 21:01:22 INFO  Driver:21 - Server has started
+2020-11-07 21:01:22 INFO  Driver:22 - Program has started
+2020-11-07 21:01:22 INFO  Driver:28 - Program has ended
+2020-11-07 22:03:16 INFO  Driver:23 - Server has started
+2020-11-07 22:03:16 INFO  Driver:24 - Program has started
+2020-11-07 22:03:16 INFO  Driver:35 - Program has ended
+2020-11-07 22:03:25 INFO  Driver:23 - Server has started
+2020-11-07 22:03:25 INFO  Driver:24 - Program has started
+2020-11-07 22:03:25 INFO  Driver:35 - Program has ended
+2020-11-08 00:58:02 INFO  Driver:23 - Server has started
+2020-11-08 00:58:02 INFO  Driver:24 - Program has started
+2020-11-08 00:58:02 INFO  Driver:41 - Program has ended
+2020-11-08 00:58:34 INFO  Driver:23 - Server has started
+2020-11-08 00:58:34 INFO  Driver:24 - Program has started
+2020-11-08 00:58:35 INFO  Driver:41 - Program has ended
+2020-11-08 01:00:05 INFO  Driver:23 - Server has started
+2020-11-08 01:00:05 INFO  Driver:24 - Program has started
+2020-11-08 01:00:06 INFO  Driver:41 - Program has ended
+2020-11-08 01:05:44 INFO  Driver:23 - Server has started
+2020-11-08 01:05:44 INFO  Driver:24 - Program has started
+2020-11-08 01:05:44 INFO  Driver:41 - Program has ended
+2020-11-08 01:05:58 INFO  Driver:23 - Server has started
+2020-11-08 01:05:58 INFO  Driver:24 - Program has started
+2020-11-08 01:09:32 INFO  Driver:23 - Server has started
+2020-11-08 01:09:32 INFO  Driver:24 - Program has started
+2020-11-08 01:09:32 INFO  Driver:41 - Program has ended
+2020-11-08 01:10:00 INFO  Driver:23 - Server has started
+2020-11-08 01:10:00 INFO  Driver:24 - Program has started
+2020-11-08 01:10:00 INFO  Driver:41 - Program has ended
+2020-11-08 21:25:50 INFO  Driver:27 - Server has started
+2020-11-08 21:25:50 INFO  Driver:28 - Program has started
+2020-11-08 21:25:50 INFO  Driver:54 - Program has ended
+2020-11-08 21:28:57 INFO  Driver:27 - Server has started
+2020-11-08 21:28:57 INFO  Driver:28 - Program has started
+2020-11-08 21:28:57 INFO  Driver:54 - Program has ended
+2020-11-08 21:33:44 INFO  Driver:27 - Server has started
+2020-11-08 21:33:44 INFO  Driver:28 - Program has started
+2020-11-08 21:33:44 INFO  Driver:54 - Program has ended
+2020-11-08 21:43:57 INFO  Driver:27 - Server has started
+2020-11-08 21:43:57 INFO  Driver:28 - Program has started
+2020-11-08 21:43:57 INFO  Driver:54 - Program has ended
+2020-11-08 21:50:50 INFO  Driver:27 - Server has started
+2020-11-08 21:50:50 INFO  Driver:28 - Program has started
+2020-11-08 21:50:50 INFO  Driver:54 - Program has ended
+2020-11-08 21:51:34 INFO  Driver:27 - Server has started
+2020-11-08 21:51:34 INFO  Driver:28 - Program has started
+2020-11-08 21:51:34 INFO  Driver:54 - Program has ended
+2020-11-08 21:52:55 INFO  Driver:27 - Server has started
+2020-11-08 21:52:55 INFO  Driver:28 - Program has started
+2020-11-08 21:52:55 INFO  Driver:54 - Program has ended
+2020-11-08 21:59:24 INFO  Driver:27 - Server has started
+2020-11-08 21:59:24 INFO  Driver:28 - Program has started
+2020-11-08 22:00:19 INFO  Driver:27 - Server has started
+2020-11-08 22:00:19 INFO  Driver:28 - Program has started
+2020-11-08 22:02:38 INFO  Driver:27 - Server has started
+2020-11-08 22:02:38 INFO  Driver:28 - Program has started
+2020-11-08 22:56:17 INFO  Driver:27 - Server has started
+2020-11-08 22:56:17 INFO  Driver:28 - Program has started
+2020-11-08 22:56:30 INFO  Driver:27 - Server has started
+2020-11-08 22:56:30 INFO  Driver:28 - Program has started
+2020-11-08 22:56:48 INFO  Driver:27 - Server has started
+2020-11-08 22:56:48 INFO  Driver:28 - Program has started
+2020-11-08 22:57:57 INFO  Driver:27 - Server has started
+2020-11-08 22:57:57 INFO  Driver:28 - Program has started
+2020-11-08 22:58:11 INFO  Driver:27 - Server has started
+2020-11-08 22:58:11 INFO  Driver:28 - Program has started
+2020-11-08 23:01:01 INFO  Driver:27 - Server has started
+2020-11-08 23:01:01 INFO  Driver:28 - Program has started
+2020-11-08 23:01:01 INFO  Driver:54 - Program has ended
+2020-11-08 23:01:35 INFO  Driver:27 - Server has started
+2020-11-08 23:01:35 INFO  Driver:28 - Program has started
+2020-11-08 23:01:35 INFO  Driver:54 - Program has ended
+2020-11-08 23:02:42 INFO  Driver:27 - Server has started
+2020-11-08 23:02:42 INFO  Driver:28 - Program has started
+2020-11-08 23:02:51 INFO  Driver:27 - Server has started
+2020-11-08 23:02:51 INFO  Driver:28 - Program has started
+2020-11-08 23:03:02 INFO  Driver:27 - Server has started
+2020-11-08 23:03:02 INFO  Driver:28 - Program has started
+2020-11-08 23:05:36 INFO  Driver:27 - Server has started
+2020-11-08 23:05:36 INFO  Driver:28 - Program has started
+2020-11-08 23:05:36 INFO  Driver:54 - Program has ended
+2020-11-08 23:06:06 INFO  Driver:27 - Server has started
+2020-11-08 23:06:06 INFO  Driver:28 - Program has started
+2020-11-08 23:08:24 INFO  Driver:27 - Server has started
+2020-11-08 23:08:24 INFO  Driver:28 - Program has started
+2020-11-08 23:08:24 INFO  Driver:54 - Program has ended
+2020-11-09 00:47:15 INFO  Driver:27 - Server has started
+2020-11-09 00:47:15 INFO  Driver:28 - Program has started
+2020-11-09 00:47:15 INFO  Driver:36 - Program has ended
+2020-11-09 00:48:11 INFO  Driver:27 - Server has started
+2020-11-09 00:48:11 INFO  Driver:28 - Program has started
+2020-11-09 00:48:11 INFO  Driver:36 - Program has ended
+2020-11-09 02:53:28 INFO  Driver:26 - Server has started
+2020-11-09 02:53:28 INFO  Driver:27 - Program has started
+2020-11-09 02:53:28 INFO  Driver:41 - Program has ended
+2020-11-09 02:58:20 INFO  Driver:26 - Server has started
+2020-11-09 02:58:20 INFO  Driver:27 - Program has started
+2020-11-09 02:58:20 INFO  Driver:41 - Program has ended
+2020-11-09 03:02:50 INFO  Driver:28 - Server has started
+2020-11-09 03:02:50 INFO  Driver:29 - Program has started
+2020-11-09 03:02:50 INFO  Driver:43 - Program has ended
+2020-11-09 03:04:29 INFO  Driver:28 - Server has started
+2020-11-09 03:04:29 INFO  Driver:29 - Program has started
+2020-11-09 03:04:29 INFO  Driver:43 - Program has ended
+2020-11-09 03:05:19 INFO  Driver:28 - Server has started
+2020-11-09 03:05:19 INFO  Driver:29 - Program has started
+2020-11-09 03:05:19 INFO  Driver:43 - Program has ended
+2020-11-09 03:06:45 INFO  Driver:28 - Server has started
+2020-11-09 03:06:45 INFO  Driver:29 - Program has started
+2020-11-09 03:06:45 INFO  Driver:43 - Program has ended
+2020-11-09 03:11:46 INFO  Driver:28 - Server has started
+2020-11-09 03:11:46 INFO  Driver:29 - Program has started
+2020-11-09 03:11:46 INFO  Driver:43 - Program has ended
+2020-11-09 03:12:04 INFO  Driver:28 - Server has started
+2020-11-09 03:12:04 INFO  Driver:29 - Program has started
+2020-11-09 03:12:04 INFO  Driver:43 - Program has ended
+2020-11-09 03:14:00 INFO  Driver:28 - Server has started
+2020-11-09 03:14:00 INFO  Driver:29 - Program has started
+2020-11-09 03:14:00 INFO  Driver:43 - Program has ended
+2020-11-09 03:14:53 INFO  Driver:28 - Server has started
+2020-11-09 03:14:53 INFO  Driver:29 - Program has started
+2020-11-09 03:14:53 INFO  Driver:43 - Program has ended
+2020-11-09 03:17:23 INFO  Driver:28 - Server has started
+2020-11-09 03:17:23 INFO  Driver:29 - Program has started
+2020-11-09 03:17:23 INFO  Driver:43 - Program has ended
+2020-11-09 03:34:18 INFO  Driver:28 - Server has started
+2020-11-09 03:34:18 INFO  Driver:29 - Program has started
+2020-11-09 03:34:18 INFO  Driver:45 - Program has ended
+2020-11-09 03:35:15 INFO  Driver:28 - Server has started
+2020-11-09 03:35:15 INFO  Driver:29 - Program has started
+2020-11-09 03:35:15 INFO  Driver:45 - Program has ended
+2020-11-09 03:43:12 INFO  Driver:28 - Server has started
+2020-11-09 03:43:12 INFO  Driver:29 - Program has started
+2020-11-09 03:43:12 INFO  Driver:45 - Program has ended
+2020-11-09 11:00:49 INFO  Driver:28 - Server has started
+2020-11-09 11:00:49 INFO  Driver:29 - Program has started
+2020-11-09 11:00:49 INFO  Driver:45 - Program has ended
+2020-11-09 11:14:27 INFO  Driver:28 - Server has started
+2020-11-09 11:14:27 INFO  Driver:29 - Program has started
+2020-11-09 11:14:27 INFO  Driver:46 - Program has ended
+2020-11-09 11:17:55 INFO  Driver:28 - Server has started
+2020-11-09 11:17:55 INFO  Driver:29 - Program has started
+2020-11-09 11:17:55 INFO  Driver:46 - Program has ended
+2020-11-09 11:18:16 INFO  Driver:28 - Server has started
+2020-11-09 11:18:16 INFO  Driver:29 - Program has started
+2020-11-09 11:18:16 INFO  Driver:46 - Program has ended
+2020-11-09 11:19:02 INFO  Driver:28 - Server has started
+2020-11-09 11:19:02 INFO  Driver:29 - Program has started
+2020-11-09 11:19:02 INFO  Driver:46 - Program has ended
+2020-11-09 11:34:58 INFO  Driver:28 - Server has started
+2020-11-09 11:34:58 INFO  Driver:29 - Program has started
+2020-11-09 11:34:58 INFO  Driver:48 - Program has ended
+2020-11-09 11:40:29 INFO  Driver:28 - Server has started
+2020-11-09 11:40:29 INFO  Driver:29 - Program has started
+2020-11-09 11:40:29 INFO  Driver:48 - Program has ended
+2020-11-09 11:42:08 INFO  Driver:28 - Server has started
+2020-11-09 11:42:08 INFO  Driver:29 - Program has started
+2020-11-09 11:42:08 INFO  Driver:48 - Program has ended
+2020-11-09 11:42:23 INFO  Driver:28 - Server has started
+2020-11-09 11:42:23 INFO  Driver:29 - Program has started
+2020-11-09 11:42:23 INFO  Driver:48 - Program has ended
+2020-11-09 11:43:22 INFO  Driver:28 - Server has started
+2020-11-09 11:43:22 INFO  Driver:29 - Program has started
+2020-11-09 11:43:22 INFO  Driver:48 - Program has ended
+2020-11-09 11:44:25 INFO  Driver:28 - Server has started
+2020-11-09 11:44:25 INFO  Driver:29 - Program has started
+2020-11-09 11:44:25 INFO  Driver:48 - Program has ended
+2020-11-09 11:45:08 INFO  Driver:28 - Server has started
+2020-11-09 11:45:08 INFO  Driver:29 - Program has started
+2020-11-09 11:45:08 INFO  Driver:48 - Program has ended
+2020-11-09 11:46:50 INFO  Driver:28 - Server has started
+2020-11-09 11:46:50 INFO  Driver:29 - Program has started
+2020-11-09 11:46:50 INFO  Driver:48 - Program has ended
+2020-11-09 12:07:59 INFO  Driver:28 - Server has started
+2020-11-09 12:07:59 INFO  Driver:29 - Program has started
+2020-11-09 12:07:59 INFO  Driver:48 - Program has ended
+2020-11-09 12:11:47 INFO  Driver:28 - Server has started
+2020-11-09 12:11:47 INFO  Driver:29 - Program has started
+2020-11-09 12:11:47 INFO  Driver:48 - Program has ended
+2020-11-09 12:15:15 INFO  Driver:28 - Server has started
+2020-11-09 12:15:15 INFO  Driver:29 - Program has started
+2020-11-09 12:15:15 INFO  Driver:48 - Program has ended
+2020-11-09 12:15:36 INFO  Driver:28 - Server has started
+2020-11-09 12:15:36 INFO  Driver:29 - Program has started
+2020-11-09 12:15:36 INFO  Driver:48 - Program has ended
+2020-11-09 12:16:10 INFO  Driver:28 - Server has started
+2020-11-09 12:16:10 INFO  Driver:29 - Program has started
+2020-11-09 12:16:10 INFO  Driver:48 - Program has ended
+2020-11-09 12:17:13 INFO  Driver:28 - Server has started
+2020-11-09 12:17:13 INFO  Driver:29 - Program has started
+2020-11-09 12:17:13 INFO  Driver:48 - Program has ended
+2020-11-09 12:18:29 INFO  Driver:28 - Server has started
+2020-11-09 12:18:29 INFO  Driver:29 - Program has started
+2020-11-09 12:18:29 INFO  Driver:48 - Program has ended
+2020-11-09 12:19:09 INFO  Driver:28 - Server has started
+2020-11-09 12:19:09 INFO  Driver:29 - Program has started
+2020-11-09 12:19:09 INFO  Driver:48 - Program has ended
+2020-11-09 12:20:12 INFO  Driver:28 - Server has started
+2020-11-09 12:20:12 INFO  Driver:29 - Program has started
+2020-11-09 12:20:13 INFO  Driver:48 - Program has ended
+2020-11-09 12:21:40 INFO  Driver:28 - Server has started
+2020-11-09 12:21:40 INFO  Driver:29 - Program has started
+2020-11-09 12:21:40 INFO  Driver:48 - Program has ended
+2020-11-09 12:22:13 INFO  Driver:28 - Server has started
+2020-11-09 12:22:13 INFO  Driver:29 - Program has started
+2020-11-09 12:22:13 INFO  Driver:48 - Program has ended
+2020-11-09 12:23:37 INFO  Driver:28 - Server has started
+2020-11-09 12:23:37 INFO  Driver:29 - Program has started
+2020-11-09 12:23:37 INFO  Driver:48 - Program has ended
+2020-11-09 12:27:53 INFO  Driver:28 - Server has started
+2020-11-09 12:27:53 INFO  Driver:29 - Program has started
+2020-11-09 12:27:53 INFO  Driver:48 - Program has ended
+2020-11-09 12:31:38 INFO  Driver:28 - Server has started
+2020-11-09 12:31:38 INFO  Driver:29 - Program has started
+2020-11-09 12:31:38 INFO  Driver:48 - Program has ended
+2020-11-09 12:32:46 INFO  Driver:28 - Server has started
+2020-11-09 12:32:46 INFO  Driver:29 - Program has started
+2020-11-09 12:32:46 INFO  Driver:48 - Program has ended
+2020-11-09 12:33:23 INFO  Driver:28 - Server has started
+2020-11-09 12:33:23 INFO  Driver:29 - Program has started
+2020-11-09 12:33:23 INFO  Driver:48 - Program has ended
+2020-11-09 12:48:37 INFO  Driver:28 - Server has started
+2020-11-09 12:48:37 INFO  Driver:29 - Program has started
+2020-11-09 12:48:37 INFO  Driver:48 - Program has ended
+2020-11-09 12:49:38 INFO  Driver:28 - Server has started
+2020-11-09 12:49:38 INFO  Driver:29 - Program has started
+2020-11-09 12:49:38 INFO  Driver:48 - Program has ended
+2020-11-09 12:52:51 INFO  Driver:28 - Server has started
+2020-11-09 12:52:51 INFO  Driver:29 - Program has started
+2020-11-09 12:52:51 INFO  Driver:48 - Program has ended
+2020-11-09 14:37:17 INFO  Driver:28 - Server has started
+2020-11-09 14:37:17 INFO  Driver:29 - Program has started
+2020-11-09 14:37:17 INFO  Driver:48 - Program has ended
+2020-11-09 14:58:03 INFO  Driver:28 - Server has started
+2020-11-09 14:58:03 INFO  Driver:29 - Program has started
+2020-11-09 14:58:03 INFO  Driver:48 - Program has ended
+2020-11-09 15:01:35 INFO  Driver:28 - Server has started
+2020-11-09 15:01:35 INFO  Driver:29 - Program has started
+2020-11-09 15:01:35 INFO  Driver:48 - Program has ended
+2020-11-09 15:03:15 INFO  Driver:28 - Server has started
+2020-11-09 15:03:15 INFO  Driver:29 - Program has started
+2020-11-09 15:03:15 INFO  Driver:48 - Program has ended
+2020-11-09 15:06:09 INFO  Driver:28 - Server has started
+2020-11-09 15:06:09 INFO  Driver:29 - Program has started
+2020-11-09 15:06:09 INFO  Driver:48 - Program has ended
+2020-11-09 19:52:10 INFO  Driver:28 - Server has started
+2020-11-09 19:52:10 INFO  Driver:29 - Program has started
+2020-11-09 19:52:10 INFO  Driver:48 - Program has ended
+2020-11-09 19:57:18 INFO  Driver:28 - Server has started
+2020-11-09 19:57:18 INFO  Driver:29 - Program has started
+2020-11-09 19:57:18 INFO  Driver:48 - Program has ended
+2020-11-09 19:57:38 INFO  Driver:28 - Server has started
+2020-11-09 19:57:38 INFO  Driver:29 - Program has started
+2020-11-09 19:57:38 INFO  Driver:48 - Program has ended
+2020-11-10 11:08:29 INFO  Driver:28 - Server has started
+2020-11-10 11:08:29 INFO  Driver:29 - Program has started
+2020-11-10 11:08:29 INFO  Driver:48 - Program has ended
+2020-11-10 11:10:17 INFO  Driver:28 - Server has started
+2020-11-10 11:10:17 INFO  Driver:29 - Program has started
+2020-11-10 11:10:17 INFO  Driver:48 - Program has ended
+2020-11-10 11:14:01 INFO  Driver:28 - Server has started
+2020-11-10 11:14:01 INFO  Driver:29 - Program has started
+2020-11-10 11:14:01 INFO  Driver:48 - Program has ended
+2020-11-10 11:16:25 INFO  Driver:28 - Server has started
+2020-11-10 11:16:25 INFO  Driver:29 - Program has started
+2020-11-10 11:16:25 INFO  Driver:48 - Program has ended
+2020-11-10 11:19:16 INFO  Driver:28 - Server has started
+2020-11-10 11:19:16 INFO  Driver:29 - Program has started
+2020-11-10 11:19:17 INFO  Driver:48 - Program has ended
+2020-11-10 11:23:56 INFO  Driver:28 - Server has started
+2020-11-10 11:23:56 INFO  Driver:29 - Program has started
+2020-11-10 11:23:56 INFO  Driver:48 - Program has ended
+2020-11-10 11:24:03 INFO  Driver:28 - Server has started
+2020-11-10 11:24:03 INFO  Driver:29 - Program has started
+2020-11-10 11:24:03 INFO  Driver:48 - Program has ended
+2020-11-10 11:27:12 INFO  Driver:28 - Server has started
+2020-11-10 11:27:12 INFO  Driver:29 - Program has started
+2020-11-10 11:27:12 INFO  Driver:48 - Program has ended
+2020-11-10 16:55:59 INFO  Driver:28 - Server has started
+2020-11-10 16:55:59 INFO  Driver:29 - Program has started
+2020-11-10 16:55:59 INFO  Driver:48 - Program has ended
+2020-11-10 17:00:19 INFO  Driver:28 - Server has started
+2020-11-10 17:00:19 INFO  Driver:29 - Program has started
+2020-11-10 17:00:19 INFO  Driver:48 - Program has ended
+2020-11-10 17:01:17 INFO  Driver:28 - Server has started
+2020-11-10 17:01:17 INFO  Driver:29 - Program has started
+2020-11-10 17:01:17 INFO  Driver:48 - Program has ended
+2020-11-10 17:01:35 INFO  Driver:28 - Server has started
+2020-11-10 17:01:35 INFO  Driver:29 - Program has started
+2020-11-10 17:01:35 INFO  Driver:48 - Program has ended
+2020-11-10 17:04:35 INFO  Driver:28 - Server has started
+2020-11-10 17:04:35 INFO  Driver:29 - Program has started
+2020-11-10 17:04:36 INFO  Driver:48 - Program has ended
+2020-11-10 17:07:52 INFO  Driver:28 - Server has started
+2020-11-10 17:07:52 INFO  Driver:29 - Program has started
+2020-11-10 17:07:52 INFO  Driver:48 - Program has ended
+2020-11-10 17:09:25 INFO  Driver:28 - Server has started
+2020-11-10 17:09:25 INFO  Driver:29 - Program has started
+2020-11-10 17:09:25 INFO  Driver:48 - Program has ended
+2020-11-10 17:13:30 INFO  Driver:28 - Server has started
+2020-11-10 17:13:30 INFO  Driver:29 - Program has started
+2020-11-10 17:13:30 INFO  Driver:48 - Program has ended
+2020-11-10 17:14:08 INFO  Driver:28 - Server has started
+2020-11-10 17:14:08 INFO  Driver:29 - Program has started
+2020-11-10 17:14:08 INFO  Driver:48 - Program has ended
+2020-11-10 17:17:26 INFO  Driver:28 - Server has started
+2020-11-10 17:17:26 INFO  Driver:29 - Program has started
+2020-11-10 17:17:26 INFO  Driver:48 - Program has ended
+2020-11-10 17:24:02 INFO  Driver:28 - Server has started
+2020-11-10 17:24:02 INFO  Driver:29 - Program has started
+2020-11-10 17:24:02 INFO  Driver:48 - Program has ended
+2020-11-10 17:30:14 INFO  Driver:28 - Server has started
+2020-11-10 17:30:14 INFO  Driver:29 - Program has started
+2020-11-10 17:30:14 INFO  Driver:48 - Program has ended
+2020-11-10 17:30:46 INFO  Driver:28 - Server has started
+2020-11-10 17:30:46 INFO  Driver:29 - Program has started
+2020-11-10 17:30:46 INFO  Driver:48 - Program has ended
+2020-11-10 17:36:52 INFO  Driver:28 - Server has started
+2020-11-10 17:36:52 INFO  Driver:29 - Program has started
+2020-11-10 17:36:52 INFO  Driver:48 - Program has ended
+2020-11-10 17:38:38 INFO  Driver:28 - Server has started
+2020-11-10 17:38:38 INFO  Driver:29 - Program has started
+2020-11-10 17:38:38 INFO  Driver:48 - Program has ended
+2020-11-10 17:53:44 INFO  Driver:28 - Server has started
+2020-11-10 17:53:44 INFO  Driver:29 - Program has started
+2020-11-10 17:53:44 INFO  Driver:48 - Program has ended
+2020-11-10 17:57:10 INFO  Driver:28 - Server has started
+2020-11-10 17:57:10 INFO  Driver:29 - Program has started
+2020-11-10 17:57:10 INFO  Driver:48 - Program has ended
+2020-11-10 17:58:22 INFO  Driver:28 - Server has started
+2020-11-10 17:58:22 INFO  Driver:29 - Program has started
+2020-11-10 17:58:22 INFO  Driver:48 - Program has ended
+2020-11-10 17:59:28 INFO  Driver:28 - Server has started
+2020-11-10 17:59:28 INFO  Driver:29 - Program has started
+2020-11-10 17:59:28 INFO  Driver:48 - Program has ended
+2020-11-10 18:01:50 INFO  Driver:28 - Server has started
+2020-11-10 18:01:50 INFO  Driver:29 - Program has started
+2020-11-10 18:01:50 INFO  Driver:48 - Program has ended
+2020-11-10 18:02:21 INFO  Driver:28 - Server has started
+2020-11-10 18:02:21 INFO  Driver:29 - Program has started
+2020-11-10 18:02:21 INFO  Driver:48 - Program has ended
+2020-11-10 18:08:56 INFO  Driver:28 - Server has started
+2020-11-10 18:08:56 INFO  Driver:29 - Program has started
+2020-11-10 18:08:56 INFO  Driver:48 - Program has ended
+2020-11-10 18:09:32 INFO  Driver:28 - Server has started
+2020-11-10 18:09:32 INFO  Driver:29 - Program has started
+2020-11-10 18:09:32 INFO  Driver:48 - Program has ended
+2020-11-10 18:13:07 INFO  Driver:28 - Server has started
+2020-11-10 18:13:07 INFO  Driver:29 - Program has started
+2020-11-10 18:13:07 INFO  Driver:48 - Program has ended
+2020-11-10 18:14:11 INFO  Driver:28 - Server has started
+2020-11-10 18:14:11 INFO  Driver:29 - Program has started
+2020-11-10 18:14:11 INFO  Driver:48 - Program has ended
+2020-11-10 18:14:47 INFO  Driver:28 - Server has started
+2020-11-10 18:14:47 INFO  Driver:29 - Program has started
+2020-11-10 18:14:47 INFO  Driver:48 - Program has ended
+2020-11-10 18:17:14 INFO  Driver:28 - Server has started
+2020-11-10 18:17:14 INFO  Driver:29 - Program has started
+2020-11-10 18:17:14 INFO  Driver:48 - Program has ended
+2020-11-10 18:18:17 INFO  Driver:28 - Server has started
+2020-11-10 18:18:17 INFO  Driver:29 - Program has started
+2020-11-10 18:18:17 INFO  Driver:48 - Program has ended
+2020-11-10 18:19:21 INFO  Driver:28 - Server has started
+2020-11-10 18:19:21 INFO  Driver:29 - Program has started
+2020-11-10 18:19:21 INFO  Driver:48 - Program has ended
+2020-11-10 18:19:35 INFO  Driver:28 - Server has started
+2020-11-10 18:19:35 INFO  Driver:29 - Program has started
+2020-11-10 18:19:35 INFO  Driver:48 - Program has ended
+2020-11-10 18:20:19 INFO  Driver:28 - Server has started
+2020-11-10 18:20:19 INFO  Driver:29 - Program has started
+2020-11-10 18:20:19 INFO  Driver:48 - Program has ended
+2020-11-10 18:33:20 INFO  Driver:28 - Server has started
+2020-11-10 18:33:20 INFO  Driver:29 - Program has started
+2020-11-10 18:33:20 INFO  Driver:48 - Program has ended
+2020-11-10 18:35:02 INFO  Driver:28 - Server has started
+2020-11-10 18:35:02 INFO  Driver:29 - Program has started
+2020-11-10 18:35:02 INFO  Driver:48 - Program has ended
+2020-11-10 18:35:55 INFO  Driver:28 - Server has started
+2020-11-10 18:35:55 INFO  Driver:29 - Program has started
+2020-11-10 18:35:56 INFO  Driver:48 - Program has ended
+2020-11-10 18:36:55 INFO  Driver:28 - Server has started
+2020-11-10 18:36:55 INFO  Driver:29 - Program has started
+2020-11-10 18:36:55 INFO  Driver:48 - Program has ended
+2020-11-10 18:43:16 INFO  Driver:28 - Server has started
+2020-11-10 18:43:16 INFO  Driver:29 - Program has started
+2020-11-10 18:43:16 INFO  Driver:48 - Program has ended
+2020-11-10 20:30:42 INFO  Driver:28 - Server has started
+2020-11-10 20:30:42 INFO  Driver:29 - Program has started
+2020-11-10 20:30:42 INFO  Driver:48 - Program has ended
+2020-11-10 20:39:28 INFO  Driver:28 - Server has started
+2020-11-10 20:39:28 INFO  Driver:29 - Program has started
+2020-11-10 20:39:28 INFO  Driver:48 - Program has ended
+2020-11-10 22:16:10 INFO  Driver:28 - Server has started
+2020-11-10 22:16:10 INFO  Driver:29 - Program has started
+2020-11-10 22:16:10 INFO  Driver:48 - Program has ended
+2020-11-10 22:16:33 WARN  Web:289 - User failed to send money
+2020-11-11 00:12:09 INFO  Driver:28 - Server has started
+2020-11-11 00:12:09 INFO  Driver:29 - Program has started
+2020-11-11 00:12:09 INFO  Driver:49 - Program has ended
+2020-11-11 00:12:17 ERROR Web:71 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 00:12:17 INFO  Web:56 - User was successfully created
+2020-11-11 00:12:19 INFO  Web:91 - User successfully logged in
+2020-11-11 00:12:26 INFO  Web:160 - User successfully created a bank
+2020-11-11 00:12:31 INFO  Web:259 - Users input failed luhn's
+2020-11-11 00:12:45 INFO  Web:259 - Users input failed luhn's
+2020-11-11 00:12:49 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 00:13:03 INFO  Web:289 - User successfully sent money
+2020-11-11 00:13:10 INFO  Web:315 - User successfully added money to card from bank
+2020-11-11 00:13:14 INFO  Web:339 - User successfully added money to bank from card
+2020-11-11 00:16:14 INFO  Web:160 - User successfully created a bank
+2020-11-11 00:16:16 INFO  Web:155 - User tried to create a bank that already existed
+2020-11-11 00:17:37 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 00:19:56 INFO  Driver:28 - Server has started
+2020-11-11 00:19:56 INFO  Driver:29 - Program has started
+2020-11-11 00:19:56 INFO  Driver:49 - Program has ended
+2020-11-11 00:20:56 INFO  Driver:28 - Server has started
+2020-11-11 00:20:56 INFO  Driver:29 - Program has started
+2020-11-11 00:20:56 INFO  Driver:49 - Program has ended
+2020-11-11 00:22:09 INFO  Driver:28 - Server has started
+2020-11-11 00:22:09 INFO  Driver:29 - Program has started
+2020-11-11 00:22:09 INFO  Driver:49 - Program has ended
+2020-11-11 00:23:50 INFO  Driver:28 - Server has started
+2020-11-11 00:23:50 INFO  Driver:29 - Program has started
+2020-11-11 00:23:51 INFO  Driver:49 - Program has ended
+2020-11-11 00:35:57 INFO  Driver:28 - Server has started
+2020-11-11 00:35:57 INFO  Driver:29 - Program has started
+2020-11-11 00:35:57 INFO  Driver:49 - Program has ended
+2020-11-11 00:37:25 INFO  Driver:28 - Server has started
+2020-11-11 00:37:25 INFO  Driver:29 - Program has started
+2020-11-11 00:37:25 INFO  Driver:49 - Program has ended
+2020-11-11 00:58:49 INFO  Driver:28 - Server has started
+2020-11-11 00:58:49 INFO  Driver:29 - Program has started
+2020-11-11 00:58:49 INFO  Driver:49 - Program has ended
+2020-11-11 00:59:29 WARN  Web:62 - User was unsuccessfully created
+2020-11-11 00:59:31 INFO  Web:91 - User successfully logged in
+2020-11-11 00:59:34 INFO  Web:155 - User tried to create a bank that already existed
+2020-11-11 00:59:36 INFO  Web:155 - User tried to create a bank that already existed
+2020-11-11 00:59:38 INFO  Web:244 - User tried to create a card that already existed in database
+2020-11-11 00:59:40 INFO  Web:244 - User tried to create a card that already existed in database
+2020-11-11 00:59:43 INFO  Web:289 - User successfully sent money
+2020-11-11 00:59:45 INFO  Web:315 - User successfully added money to card from bank
+2020-11-11 00:59:47 INFO  Web:339 - User successfully added money to bank from card
+2020-11-11 01:00:13 ERROR Web:71 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 01:00:16 ERROR Web:71 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 01:00:19 ERROR Web:71 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 09:43:48 INFO  Driver:28 - Server has started
+2020-11-11 09:43:48 INFO  Driver:29 - Program has started
+2020-11-11 09:43:48 INFO  Driver:49 - Program has ended
+2020-11-11 10:09:53 INFO  Driver:28 - Server has started
+2020-11-11 10:09:53 INFO  Driver:29 - Program has started
+2020-11-11 10:09:53 INFO  Driver:49 - Program has ended
+2020-11-11 10:09:59 ERROR Web:71 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 10:09:59 INFO  Web:56 - User was successfully created
+2020-11-11 10:10:02 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:10:03 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:10:05 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 10:10:07 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 10:10:09 INFO  Web:289 - User successfully sent money
+2020-11-11 10:10:11 INFO  Web:315 - User successfully added money to card from bank
+2020-11-11 10:10:13 INFO  Web:339 - User successfully added money to bank from card
+2020-11-11 10:10:28 INFO  Web:155 - User tried to create a bank that already existed
+2020-11-11 10:10:30 INFO  Web:155 - User tried to create a bank that already existed
+2020-11-11 10:10:55 INFO  Web:339 - User successfully added money to bank from card
+2020-11-11 10:10:58 INFO  Web:315 - User successfully added money to card from bank
+2020-11-11 10:11:00 INFO  Web:244 - User tried to create a card that already existed in database
+2020-11-11 10:12:37 ERROR Web:71 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 10:12:37 INFO  Web:56 - User was successfully created
+2020-11-11 10:19:30 INFO  Driver:28 - Server has started
+2020-11-11 10:19:30 INFO  Driver:29 - Program has started
+2020-11-11 10:19:30 INFO  Driver:49 - Program has ended
+2020-11-11 10:20:08 INFO  Driver:28 - Server has started
+2020-11-11 10:20:08 INFO  Driver:29 - Program has started
+2020-11-11 10:20:08 INFO  Driver:49 - Program has ended
+2020-11-11 10:20:29 INFO  Driver:28 - Server has started
+2020-11-11 10:20:29 INFO  Driver:29 - Program has started
+2020-11-11 10:20:29 INFO  Driver:49 - Program has ended
+2020-11-11 10:20:35 WARN  Web:62 - User was unsuccessfully created
+2020-11-11 10:20:51 ERROR Web:72 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 10:20:51 INFO  Web:56 - User was successfully created
+2020-11-11 10:20:55 INFO  Web:91 - User successfully logged in
+2020-11-11 10:21:32 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:21:34 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:23:31 INFO  Driver:28 - Server has started
+2020-11-11 10:23:31 INFO  Driver:29 - Program has started
+2020-11-11 10:23:31 INFO  Driver:49 - Program has ended
+2020-11-11 10:24:28 INFO  Driver:28 - Server has started
+2020-11-11 10:24:28 INFO  Driver:29 - Program has started
+2020-11-11 10:24:28 INFO  Driver:49 - Program has ended
+2020-11-11 10:24:40 ERROR Web:72 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 10:24:40 INFO  Web:56 - User was successfully created
+2020-11-11 10:25:09 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:25:11 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:26:41 INFO  Driver:28 - Server has started
+2020-11-11 10:26:41 INFO  Driver:29 - Program has started
+2020-11-11 10:26:41 INFO  Driver:49 - Program has ended
+2020-11-11 10:27:51 INFO  Driver:28 - Server has started
+2020-11-11 10:27:51 INFO  Driver:29 - Program has started
+2020-11-11 10:27:51 INFO  Driver:49 - Program has ended
+2020-11-11 10:28:37 INFO  Driver:28 - Server has started
+2020-11-11 10:28:37 INFO  Driver:29 - Program has started
+2020-11-11 10:28:37 INFO  Driver:49 - Program has ended
+2020-11-11 10:28:56 INFO  Driver:28 - Server has started
+2020-11-11 10:28:56 INFO  Driver:29 - Program has started
+2020-11-11 10:28:56 INFO  Driver:49 - Program has ended
+2020-11-11 10:29:54 INFO  Driver:28 - Server has started
+2020-11-11 10:29:54 INFO  Driver:29 - Program has started
+2020-11-11 10:29:54 INFO  Driver:49 - Program has ended
+2020-11-11 10:30:25 INFO  Driver:28 - Server has started
+2020-11-11 10:30:25 INFO  Driver:29 - Program has started
+2020-11-11 10:30:25 INFO  Driver:49 - Program has ended
+2020-11-11 10:31:41 INFO  Driver:28 - Server has started
+2020-11-11 10:31:41 INFO  Driver:29 - Program has started
+2020-11-11 10:31:41 INFO  Driver:49 - Program has ended
+2020-11-11 10:32:10 INFO  Driver:28 - Server has started
+2020-11-11 10:32:10 INFO  Driver:29 - Program has started
+2020-11-11 10:32:10 INFO  Driver:49 - Program has ended
+2020-11-11 10:32:43 INFO  Driver:28 - Server has started
+2020-11-11 10:32:43 INFO  Driver:29 - Program has started
+2020-11-11 10:32:43 INFO  Driver:49 - Program has ended
+2020-11-11 10:34:07 INFO  Driver:28 - Server has started
+2020-11-11 10:34:07 INFO  Driver:29 - Program has started
+2020-11-11 10:34:07 INFO  Driver:49 - Program has ended
+2020-11-11 10:36:25 INFO  Driver:28 - Server has started
+2020-11-11 10:36:25 INFO  Driver:29 - Program has started
+2020-11-11 10:36:25 INFO  Driver:49 - Program has ended
+2020-11-11 10:37:32 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 10:37:34 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 10:38:09 INFO  Driver:28 - Server has started
+2020-11-11 10:38:09 INFO  Driver:29 - Program has started
+2020-11-11 10:38:09 INFO  Driver:49 - Program has ended
+2020-11-11 10:38:40 INFO  Driver:28 - Server has started
+2020-11-11 10:38:40 INFO  Driver:29 - Program has started
+2020-11-11 10:38:40 INFO  Driver:49 - Program has ended
+2020-11-11 10:39:19 INFO  Driver:28 - Server has started
+2020-11-11 10:39:19 INFO  Driver:29 - Program has started
+2020-11-11 10:39:19 INFO  Driver:49 - Program has ended
+2020-11-11 10:52:41 ERROR Web:72 - SQLException:org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2020-11-11 10:52:42 INFO  Web:56 - User was successfully created
+2020-11-11 10:52:51 INFO  Web:91 - User successfully logged in
+2020-11-11 10:53:11 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:53:19 INFO  Web:160 - User successfully created a bank
+2020-11-11 10:53:30 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 10:53:39 INFO  Web:249 - User successfully added a card to the database
+2020-11-11 10:54:04 INFO  Web:155 - User tried to create a bank that already existed
+2020-11-11 10:54:24 INFO  Web:259 - Users input failed luhn's
+2020-11-11 10:54:43 INFO  Web:289 - User successfully sent money
+2020-11-11 10:55:09 WARN  Web:297 - User failed to send money
+2020-11-11 10:56:01 INFO  Web:315 - User successfully added money to card from bank
+2020-11-11 10:56:19 WARN  Web:322 - User tried to withdraw money from bank but failed
+2020-11-11 10:56:42 INFO  Web:339 - User successfully added money to bank from card
